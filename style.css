@@ -1,0 +1,45 @@
+body{
+           margin: 0px;
+           padding: 0px;
+           background-image: url(BG.jpg);
+           background-size: 100% 100%;
+           background-attachment: fixed;
+       }
+       .d1{
+           margin-top: 100px;
+           margin-left: 300px;
+       }
+       .d2{
+           margin-left: -150px;
+           margin-top: -700px;
+       }
+       .d3{
+           margin-top: 650px;
+           margin-left: -300px;
+       }
+       .d4{
+           margin-top: 1050px;
+           margin-left: 500px;
+       }
+       .d5{
+           margin-top: -600px;
+           margin-left: 900px;
+       }
+       .d6{
+           margin-top: -750px;
+           margin-left: 1050px;
+       }
+       .d7{
+        margin-top: -150px;
+        margin-left: 400px;
+    }
+
+    .d8{
+        margin-top: -960px;
+        margin-left: 500px;
+    }
+
+    .d9{
+        margin-top: -100px;
+        margin-left: 10px;
+    }
